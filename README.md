@@ -1,1 +1,2 @@
 For this assignment, we have selected ASP.NET Core as the framework to analyze for its architectural evolution. ASP.NET Core is an open-source, cross-platform web framework developed by Microsoft for building modern web applications and APIs. It has undergone significant architectural changes from its initial release in 2016 to the latest stable versions, making it an ideal candidate for this assignment.
+To check it out go to word file
